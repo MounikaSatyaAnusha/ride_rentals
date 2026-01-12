@@ -1,0 +1,5 @@
+node_modules/
+dist/
+attached_assets/
+generated_images/
+.env
